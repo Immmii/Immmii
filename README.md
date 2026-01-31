@@ -27,8 +27,18 @@
   <div align=left>
 
   <li>서강대학교 컴퓨터공학과 <sub>(2025.03 ~)</sub></li>
-  <li><a href="https://github.com/CEOS-Developers">CEOS 22기</a> <sub>(2025.09 ~ 2026.01)</sub></li>
+  <li><a href="https://github.com/CEOS-Developers">CEOS 23기</a> 백엔드 운영진 <sub>(2026.01 ~)</sub></li>
+  <li><a href="https://github.com/CEOS-Developers">CEOS 22기</a> 백엔드 신입부원 <sub>(2025.09 ~ 2026.01)</sub></li>
+  <li>서강대학교 컴퓨터공학과 학회 ICPC 학회원 <sub>(2026.01 ~ )</sub></li>
   <li>서강대학교 컴퓨터공학과 학회 CNU 학회원 <sub>(2025.03 ~ )</sub></li>
   <li>서강대학교 컴퓨터공학과 학회 Release 학회원 <sub>(2025.03 ~ )</sub></li>
 <br/>
 <li><a href="https://github.com/CEOS-Developers">CEOS 22기</a> : 웹툰·웹소설 팬 활동을 돕는 플랫폼 <a href="https://github.com/Team-STORIX">STORIX</a> 백엔드 개발 <sub>(2025.10 ~ )</sub></li>
+
+## 🏆 Awards
+
+  <div align=left>
+  <li><a href="https://github.com/Team-STORIX">STORIX</a> : 2025 수도권역 미니 텍스코어 (TeX-Corps) 대상</li>
+  <li><a href="https://github.com/Team-STORIX">STORIX</a> : 2025 제 17회 서강대학교 스타트업 오디션(창업경진대회) 장려상</li>
+  <li><a href="https://github.com/Team-STORIX">STORIX</a> : <a href="https://github.com/CEOS-Developers">CEOS 22기</a> DEMODAY 최우수상</li>
+  <li><a href="https://github.com/Team-STORIX">STORIX</a> : <a href="https://github.com/CEOS-Developers">CEOS 22기</a> DEMODAY 베스트 프로덕트상</li>
