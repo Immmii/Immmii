@@ -1,5 +1,5 @@
 <div align="center"><h3>안녕하세요! 👋<br>
-서강대학교 컴퓨터공학과 25학번 1학년 재학중인 백엔드 개발자 이수아입니다.</h3></div>
+서강대학교 컴퓨터공학과 25학번 2학년 재학중인 백엔드 개발자 이수아입니다.</h3></div>
 
 <br>
 <br>
@@ -33,7 +33,8 @@
   <li>서강대학교 컴퓨터공학과 학회 CNU 학회원 <sub>(2025.03 ~ )</sub></li>
   <li>서강대학교 컴퓨터공학과 학회 Release 학회원 <sub>(2025.03 ~ )</sub></li>
 <br/>
-<li><a href="https://github.com/CEOS-Developers">CEOS 22기</a> : 웹툰·웹소설 팬 활동을 돕는 플랫폼 <a href="https://github.com/Team-STORIX">STORIX</a> 백엔드 개발 <sub>(2025.10 ~ )</sub></li>
+<li><a href="https://github.com/CEOS-Developers">CEOS 22기</a> : 웹툰·웹소설 팬 활동을 돕는 플랫폼 <a href="https://github.com/Team-STORIX">STORIX</a> 백엔드 개발 <sub>(2025.10 ~ 2026.01)</sub></li>
+<li><a href="https://github.com/Team-STORIX">STORIX</a> : 웹툰·웹소설 팬 활동을 돕는 플랫폼 2.0 백엔드 개발 <sub>(2026.02 ~)</sub></li>
 
 ## 🏆 Awards
 
