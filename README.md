@@ -39,12 +39,16 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>AI · Data</b></td>
+    <td align="center"><b>Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
-      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI Tool</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square">
     </td>
