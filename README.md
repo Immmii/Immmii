@@ -69,7 +69,7 @@
 ## 🏆 Awards
 
   <div align=left>
-  <li><a href="https://github.com/Team-STORIX">Team-STORIX</a> : 2026 예비창업패키지 선정</li>
+  <li><a href="https://github.com/Team-STORIX/STORIX-BE-2.0">STORIX-2.0</a> : 2026 예비창업패키지 선정</li>
   <li><a href="https://github.com/Team-STORIX">STORIX</a> : 2025 수도권역 미니 텍스코어 (TeX-Corps) 대상</li>
   <li><a href="https://github.com/Team-STORIX">STORIX</a> : 2025 제 17회 서강대학교 스타트업 오디션(창업경진대회) 장려상</li>
   <li><a href="https://github.com/Team-STORIX">STORIX</a> : <a href="https://github.com/CEOS-Developers">CEOS 22기</a> DEMODAY 최우수상</li>
