@@ -41,6 +41,8 @@
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
       <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white">
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+      <img src="https://img.shields.io/badge/Alloy-F46800?style=flat-square&logo=grafana&logoColor=white">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
     </td>
   </tr>
   <tr>
