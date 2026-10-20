@@ -7,8 +7,8 @@
 
 <br>
 <br>
-<div align="center"><h1>🛠️ Tech Stack</h1></div>
-<div align="center">
+## 🛠️ Tech Stack
+
 <table>
   <tr>
     <td align="center"><b>Backend</b></td>
@@ -49,7 +49,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 
 <br>
@@ -59,7 +58,7 @@
 
   <div align=left>
 
-<li><a href="https://github.com/Team-STORIX">STORIX</a> : 웹툰·웹소설 독자의 기록과 관계 데이터를 쌓는 팬덤 라이프 플랫폼 <a href="https://github.com/Team-STORIX/STORIX-BE-2.0">STORIX 2.0</a> Backend Lead · 🎖️ 2026 예비창업패키지 선정 <sub>(2026.03 ~)</sub></li>
+<li><a href="https://github.com/Team-STORIX">Team-STORIX</a> : 웹툰·웹소설 독자의 기록과 관계 데이터를 쌓는 팬덤 라이프 플랫폼 <a href="https://github.com/Team-STORIX/STORIX-BE-2.0">STORIX 2.0</a> Backend Lead · 🎖️ 2026 예비창업패키지 선정 <sub>(2026.03 ~)</sub></li>
 <li><a href="https://github.com/CEOS-Developers">CEOS 22기</a> : 웹툰·웹소설 팬 활동을 돕는 플랫폼 <a href="https://github.com/Team-STORIX/STORIX-BE">STORIX</a> 백엔드 개발 · 1K 이상 유저 확보 <sub>(2025.10 ~ 2026.01)</sub></li>
 <br/>
 
