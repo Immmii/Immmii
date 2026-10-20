@@ -51,10 +51,6 @@
   </tr>
 </table>
 
-
-<br>
-<br>
-
 ## 🗓 History 
 
   <div align=left>
