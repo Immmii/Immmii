@@ -3,8 +3,6 @@
 
 <div align="center">
 <a href="https://devmii.tistory.com/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Tech Blog-ed5207?style=for-the-badge&logo=tistory&logoColor=white"></a>
-<br>
-<a href="https://hub.xerj.org/contributors/Immmii" target="_blank"><img alt="XERJ Corpus Hub contributor" src="https://hub.xerj.org/contributors/Immmii/badge.svg"></a>
 </div>
 
 <br>
@@ -63,6 +61,8 @@
     </td>
   </tr>
 </table>
+
+<a href="https://hub.xerj.org/contributors/Immmii" target="_blank"><img alt="XERJ Corpus Hub contributor" src="https://hub.xerj.org/contributors/Immmii/badge.svg"></a>
 
 ## 🗓 History 
 
